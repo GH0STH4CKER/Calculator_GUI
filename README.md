@@ -5,6 +5,10 @@ Modules required:
 ```pip install PyQt5```
 
 Preview:
-https://github.com/GH0STH4CKER/Calculator_GUI/assets/62290930/cb1c93c3-a33f-480e-812e-05e7c7c6c572
+
+
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/GH0STH4CKER/Calculator_GUI/assets/62290930/16240b59-5f10-40b2-a6c0-5c27c440b538)
+
 
 
